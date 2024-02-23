@@ -44,3 +44,14 @@ p:nth-child(1){
     font-weight: bold;
 }
 
+.img-con{
+    height: 200px;
+    width: 200px;
+}
+
+img{
+    border-radius: 10px;
+    height: 100%;
+    width: 100%;
+}
+
